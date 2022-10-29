@@ -1,0 +1,6 @@
+- "express" helps to create server. It's a nodejs framework
+- "mongoose" helps to handle mongodb data
+- "body-parser" helps to handle data of api body
+- "--save" is used to save the dependencies in package.json
+
+- "nodemon" helps to run cmd on each save...else we need to stop the server and again start this.
